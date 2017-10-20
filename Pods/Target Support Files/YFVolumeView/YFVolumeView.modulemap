@@ -1,0 +1,6 @@
+framework module YFVolumeView {
+  umbrella header "YFVolumeView-umbrella.h"
+
+  export *
+  module * { export * }
+}
